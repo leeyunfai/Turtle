@@ -1,5 +1,5 @@
 # Turtle
-Python mini-project to plot a histogram with Turtle module graphics
+Python mini-project to plot a histogram with Turtle graphics module.
 
 This project was completed successfully as part of the requirement for Nanyang Technological University's MA1008 Introduction to Computation Thinking course, with an A- Grade.
 
